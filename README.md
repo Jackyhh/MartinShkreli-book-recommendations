@@ -2,6 +2,8 @@
 
 This repository contains a collection of book recommendations by American financial criminal and businessman Martin Shkreli. These books cover a range of topics, including finance, science, and technology.
 
+Link:https://pastebin.com/XiG8KHd6
+
 ## How to Use
 
 To open the Amazon links for a specific range of books recommended by Martin Shkreli, run the `open_amazon_links.py` script with Python. Specify the start and end keys as arguments, along with the path to the `amazon_links.json` file.
